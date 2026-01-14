@@ -4,7 +4,7 @@ This repository contains a comprehensive simulation suite for a Mecanum-wheeled 
 
 ---
 
-## 📂 Repository Contents
+##  Repository Contents
 
 ### 1. Kinematics Simulation (`kinematics_sim.py`)
 **Description:**
@@ -51,7 +51,7 @@ The final integration of the project, combining Kinematics, Dynamics, and the SM
 
 ---
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 1.  **Clone the repository** (or download the files).
 2.  **Install Dependencies:**
@@ -60,7 +60,7 @@ The final integration of the project, combining Kinematics, Dynamics, and the SM
     pip install numpy matplotlib
     ```
 
-## ⚙️ How to Run
+##  How to Run
 
 Each file is standalone. You can run them individually from your terminal:
 
